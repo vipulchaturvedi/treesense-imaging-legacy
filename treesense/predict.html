@@ -60,7 +60,7 @@ iframe {
         </div>
     </header>
     <div class="iframe-container">
-        <iframe id="model-iframe" src="dist/index.html"></iframe>
+        <iframe id="model-iframe" src="index.html"></iframe>
     </div>
     <script>
         const detectionButton = document.getElementById('detection-button');
@@ -71,7 +71,7 @@ const historicalButton = document.getElementById('historical-button');
 const modelIframe = document.getElementById('model-iframe');
 
 detectionButton.addEventListener('click', () => {
-    modelIframe.src = 'dist/index.html';
+    modelIframe.src = 'index.html';
 });
 
 segmentationButton.addEventListener('click', () => {
