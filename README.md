@@ -74,7 +74,7 @@ To start using the tools, visit the website and navigate to the dashboard [here.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/vipulchaturvedi/treesense-imaging-legacy.git](https://github.com/vipulchaturvedi/treesense-imaging-legacy.git)
+git clone https://github.com/vipulchaturvedi/treesense-imaging-legacy.git
 cd treesense-imaging-legacy/treesense
 ```
 
