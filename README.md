@@ -6,7 +6,7 @@
 > The new version will be available at:  
 > 👉 **[https://github.com/vipulchaturvedi/treesense-imaging](https://github.com/vipulchaturvedi/treesense-imaging)** (Please use that repository for newer features and future maintenance).
 
-## Smart India Hackathon: TreeSense Imaging
+## Smart India Hackathon: Ministry of Coal (SIH1316)
 
 ## Image Analytics for Tree Enumeration
 The project aims to address the challenge of accurately enumerating trees in forest areas earmarked for diversion due to developmental projects by developing an image analytics system utilizing satellite imagery or aerial photographs to automate tree enumeration. Traditional methods are time-consuming and prone to errors, making it crucial to develop an automated solution.
