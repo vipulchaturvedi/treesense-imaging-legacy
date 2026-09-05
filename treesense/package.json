@@ -1,0 +1,13 @@
+{
+  "name": "treesense-legacy",
+  "version": "1.0.0",
+  "description": "TreeSense Imaging Legacy Web Prototype",
+  "scripts": {
+    "start": "serve . -l 3000",
+    "dev": "serve . -l 3000",
+    "build": "echo \"Legacy prototype is static vanilla HTML/JS; no build step required.\""
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
