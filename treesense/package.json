@@ -1,7 +1,7 @@
 {
   "name": "treesense-legacy",
   "version": "1.0.0",
-  "description": "TreeSense Imaging Legacy Web Prototype",
+  "description": "TreeSense Imaging Legacy Prototype",
   "scripts": {
     "start": "serve . -l 3000",
     "dev": "serve . -l 3000",
