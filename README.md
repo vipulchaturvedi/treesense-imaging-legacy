@@ -45,6 +45,7 @@ The project includes a website with a landing page and a dashboard offering the 
     ├── historical_data.html     # Weather & climate charts
     ├── web_model/       # Converted TF.js model shards
     └── src/assets/      # CSS styles and JavaScript logic
+```
 
 ## Screenshots
 <center>
@@ -75,13 +76,16 @@ To start using the tools, visit the website and navigate to the dashboard [here.
 ```bash
 git clone [https://github.com/vipulchaturvedi/treesense-imaging-legacy.git](https://github.com/vipulchaturvedi/treesense-imaging-legacy.git)
 cd treesense-imaging-legacy/treesense
+```
 
 ```bash
 npm install
+```
 
 ```bash
 npm run build
 npm start
+```
 
 Visit http://localhost:3000 in your browser.
 
